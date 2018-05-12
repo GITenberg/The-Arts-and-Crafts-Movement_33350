@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36350
     wikipedia: http://en.wikipedia.org/wiki/T._J._Cobden_Sanderson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33350#The-Arts-and-Crafts-Movement
 gutenberg_issued: '2010-08-04'
 gutenberg_type: Text
 identifiers:
